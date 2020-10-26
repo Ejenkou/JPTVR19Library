@@ -17,7 +17,7 @@ import java.io.ObjectOutputStream;
 
 /**
  *
- * @author Melnikov
+ * @author Ejenkou
  */
 public class ReaderSaver {
 

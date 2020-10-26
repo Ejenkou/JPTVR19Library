@@ -16,7 +16,7 @@ import jptvr19library.App;
 
 /**
  *
- * @author Melnikov
+ * @author Ejenkou
  */
 public class LibraryManager {
     private Scanner scanner = new Scanner(System.in);

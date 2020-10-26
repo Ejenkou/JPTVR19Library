@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Melnikov
+ * @author Ejenkou
  */
 public class ReaderManager {
     private Scanner scanner = new Scanner(System.in);
